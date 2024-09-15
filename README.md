@@ -70,7 +70,7 @@ $ ./build-ios.sh &
 $ tail -f build-ios.log
 ```
 
-Generating an iOS Apple Store Package (IPA) : [`🔗`](ios.md)
+#### Generating an iOS Apple Store Package (IPA) : [`🔗`](ios.md)
 
 ## Build output
 
